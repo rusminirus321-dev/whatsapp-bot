@@ -13,7 +13,7 @@ const BOT_NAME = "AUREVA BOT";
 
 // Ganti dengan nomor WhatsApp admin milikmu.
 // Format: kode negara + nomor, tanpa tanda +.
-const OWNER_NUMBER = "628xxxxxxxxxx";
+const OWNER_NUMBER = "62895323423204";
 
 const DB_FILE = "./database.json";
 
